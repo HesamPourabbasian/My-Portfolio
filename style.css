@@ -56,7 +56,7 @@ background-image: url(./img/Black.png);   }
   }
 .column h2 {
     color: white;
-    font-size: xxx-large;
+    font-size: 50%;
     text-align: center;
 } 
 .column h3 {
